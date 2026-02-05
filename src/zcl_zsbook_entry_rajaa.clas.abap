@@ -1,4 +1,4 @@
-CLASS zcs_zsbook_entry_rajaa DEFINITION
+CLASS zcl_zsbook_entry_rajaa DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -11,7 +11,7 @@ ENDCLASS.
 
 
 
-CLASS zcs_zsbook_entry_rajaa IMPLEMENTATION.
+CLASS zcl_zsbook_entry_rajaa IMPLEMENTATION.
 
 METHOD if_oo_adt_classrun~main.
     DATA:it_zsbook_rajaa TYPE TABLE OF zsbook_rajaa.
