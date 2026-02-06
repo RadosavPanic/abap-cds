@@ -1,6 +1,5 @@
 @AbapCatalog.sqlViewName: 'ZCDS_SQL_RAJAA1'
 @AbapCatalog.compiler.compareFilter: true
-@AbapCatalog.preserveKey: true
 @AccessControl.authorizationCheck: #NOT_REQUIRED
 @EndUserText.label: 'Simple CDS View'
 @Metadata.ignorePropagatedAnnotations: true
